@@ -1,5 +1,5 @@
 # Sinaica-download
-sirve para descargar datos de las estaciones de calidad del aire del sinaica. Crea un archivo para cada estacion con los sensores pedidos
+Modulo para descargar datos de las estaciones de calidad del aire del sinaica. Crea un archivo para cada estacion con los sensores pedidos
 ## como usar
 Agregar Sinaicad.py a tu carpeta de trabajo
 

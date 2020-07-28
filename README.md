@@ -2,8 +2,8 @@
 sirve para descargar datos de las estaciones de calidad del aire del sinaica
 ## como usar
 agregar Sinaicad.py a tu carpeta de trabajo
-import Sinaicad
-Sinaicad.main('YYYY-MM-DD',lista estaciones, lista sensores)
+### import Sinaicad
+### Sinaicad.main('YYYY-MM-DD',lista estaciones, lista sensores)
 
 ## Sensores:
 [O3, NOX, NOx, NO, NO2, SO2, HCT, CH4, HDM, H2S, VV, TMP, PB, PP, CO, PM10, PM2.5, PST, DV, HR, RS, IUV, UVA, UVB]

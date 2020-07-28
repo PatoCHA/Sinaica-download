@@ -1,6 +1,6 @@
 # Sinaica-download
 sirve para descargar datos de las estaciones de calidad del aire del sinaica
-## Parámetro es el contaminante:
+## Sensores:
 [O3, NOX, NOx, NO, NO2, SO2, HCT, CH4, HDM, H2S, VV, TMP, PB, PP, CO, PM10, PM2.5, PST, DV, HR, RS, IUV, UVA, UVB]
 
 *No todas las estaciones tienen todas las mediciones.

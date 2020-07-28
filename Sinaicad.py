@@ -20,7 +20,7 @@ def wrapersinaica(estacion,sensor,fecha):
     r3 = r2[0].rsplit("['(.*?)']") #extraccion de datos
     JsonText=r3[0] #extraccion de datos
     return JsonText
-#funcion para new
+
 def datosorganizar(JsonText,sensor,estacion):
     Estacion=pd.read_json(JsonText) #crear data frame con JsonText
     Estacion['sensor'] = sensor 
